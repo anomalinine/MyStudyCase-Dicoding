@@ -1,5 +1,5 @@
 # MyStudyCase-Dicoding
-Repository ini berisis pengalaman belajarku di Dicoding
+Repository ini berisi pengalaman belajarku di Dicoding
 
 20 Agustus 2023
 Belajar dasar git dengan GitHub
